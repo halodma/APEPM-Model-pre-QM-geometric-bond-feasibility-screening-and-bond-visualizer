@@ -1,0 +1,2 @@
+# APEPM-pre-QM-geometric-bond-feasibility-screening
+This code implements the APEPM model found on chemrxiv, and is intended to ideally be used either as a pre-QM screening method to see if bonds are geometrically possible (not energetically), or see if a bond is possible at all based on distance between electron radii of 2 atoms
