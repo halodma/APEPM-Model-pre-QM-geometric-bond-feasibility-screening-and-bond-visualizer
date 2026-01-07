@@ -26,10 +26,13 @@ Straightforward integration as a lightweight pre-screening step in existing work
 
 # Typical Use
 Candidate structure
+
    ↓
 APEPM geometric screening
+
    ↓
 QM / DFT / ML (applied to feasible geometries)
+
 
 # Summary
 
