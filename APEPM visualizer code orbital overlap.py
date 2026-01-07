@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import re
 
 # Please note: This code is purely for visualization of values calculated by (APEPM code implementation.py) specifically
-# the overlap radius value.
+# the overlap radius value, and also shows orbitals.
 # Licensed under: CC BY-NC 4.0
 
 # This model was created by: Dylan M. Armstrong
@@ -205,3 +205,4 @@ ax.set_title(f"Visualization of {input_bond} bond with orbitals")
 ax.legend(loc='upper right')
 plt.grid(False)
 plt.show()
+
