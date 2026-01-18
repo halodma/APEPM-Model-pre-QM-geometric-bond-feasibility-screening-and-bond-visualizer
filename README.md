@@ -3,7 +3,7 @@ This code implements the APEPM model found on chemrxiv, and is intended to ideal
 
 
 # Please Note:
-This model and paper relies on AREECM notation, the code already comes with the digital AREECM dictionary, but for the "+1" rule seen here that applies to AREECM notation, for a better understanding of AREECM, the AREECM paper can be found here on chemrxiv: https://doi.org/10.26434/chemrxiv-2025-jq84z-v3, and additional educational resources can be found on youtube: https://youtu.be/Zj-MEX8jEus (How to read AREECM notation) and: https://youtu.be/6NM0zsfH-Jg (How to convert Integer electron notation to AREECM Notation (Step-by-Step))
+This model and paper relies on AREECM notation, the code already comes with the digital AREECM dictionary, but for the "+1" rule seen here that applies to AREECM notation, for a better understanding of AREECM, the AREECM paper can be found here on chemrxiv: https://doi.org/10.26434/chemrxiv-2025-jq84z-v3, and additional educational resources can be found on youtube: https://youtu.be/Zj-MEX8jEus (How to read AREECM notation) and: https://youtu.be/6NM0zsfH-Jg (How to convert Integer electron notation to AREECM Notation (Step-by-Step)), and finally a video on how to use APEPM: https://youtu.be/fyqJNUVcqDg
 
 # Capabilities
 
